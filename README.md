@@ -87,7 +87,7 @@ Acces application here : https://ai-resume-ranker-kartik-nalawade.streamlit.app/
 ## CI/CD Pipeline
 Continuous Integration is configured via **GitHub Actions** (`.github/workflows/ci.yml`) to automatically:
 - Run the full pytest test suite across Python 3.11 on every commit and pull request.
-- Build and verify the production Docker image.
+- Build and verify the production Docker image..
 
 
 ## Responsibilities
