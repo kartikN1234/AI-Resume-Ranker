@@ -815,7 +815,7 @@ def main():
         <hr style="border:0; border-top: 1px solid rgba(148, 163, 184, 0.15); margin-top: 3rem;">
         <div style="text-align: center; color: #94a3b8; font-size: 0.9rem; padding: 1rem 0;">
             Developed by <strong>Kartik Nalawade</strong> | 
-            <a href='www.linkedin.com/in/kartik-nalawade-3a663625a' target='_blank' style='color:#38bdf8;'>LinkedIn</a> | 
+            <a href='https://www.linkedin.com/in/kartik-nalawade-3a663625a/' target='_blank' style='color:#38bdf8;'>LinkedIn</a> | 
             <a href='https://github.com/kartikN1234' target='_blank' style='color:#38bdf8;'>GitHub</a>
         </div>
     """, unsafe_allow_html=True)
